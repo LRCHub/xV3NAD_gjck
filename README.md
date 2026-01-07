@@ -1,4 +1,4 @@
-# KEIJU – KEIJU –  Wind Rise ft. JJJ (Official Video) / E.P "Speed Tape"
+# KEIJU – KEIJU –  Wind Rise ft. JJJ (Official Video) / E.P "Speed Tape"（feat. JJJ）
 
 > **歌詞登録ステータス：同期歌詞あり**
 
