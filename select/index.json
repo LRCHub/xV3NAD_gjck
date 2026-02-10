@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Not 4 Me（feat. T.O.P.、Benjazzy）",
+  "base_artist": "KEIJU",
+  "createdAt": "2026-02-10T12:30:59.167427Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Not Yet",
+      "artist": "Brett Young",
+      "has_synced": true,
+      "path": "select/01_Not_Yet_Brett_Young.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Am Not a Man Unless I Have a Woman",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_I_Am_Not_a_Man_Unless_I_Have_a_Woman_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Am Not a Man Unless I Have a Woman",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": false,
+      "path": "select/03_I_Am_Not_a_Man_Unless_I_Have_a_Woman_King_Gizzard_and_the_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "If Not Now, Then When?",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/04_If_Not_Now,_Then_When_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Real’s Not Real",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/05_Real’s_Not_Real_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Real’s Not Real",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/06_Real’s_Not_Real_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "How Not To Drown (feat. Robert Smith)",
+      "artist": "CHVRCHES feat. Robert Smith",
+      "has_synced": true,
+      "path": "select/07_How_Not_To_Drown_(feat._Robert_Smith)_CHVRCHES_feat._Robert_Smith.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It's Not Right But It's Okay",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/08_It's_Not_Right_But_It's_Okay_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It’s Not Right but It’s Okay",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/09_It’s_Not_Right_but_It’s_Okay_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Now Is Not The Time",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/10_Now_Is_Not_The_Time_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "(If You're Not In It For Love) I'm Outta Here!",
+      "artist": "Shania Twain",
+      "has_synced": false,
+      "path": "select/11_(If_You're_Not_In_It_For_Love)_I'm_Outta_Here!_Shania_Twain.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "(If You're Not In It For Love) I'm Outta Here!",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/12_(If_You're_Not_In_It_For_Love)_I'm_Outta_Here!_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "(If You're Not In It For Love) I'm Outta Here! - Live",
+      "artist": "Shania Twain",
+      "has_synced": false,
+      "path": "select/13_(If_You're_Not_In_It_For_Love)_I'm_Outta_Here!_-_Live_Shania_Twain.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Are You Gonna Kiss Me Or Not",
+      "artist": "Thompson Square",
+      "has_synced": true,
+      "path": "select/14_Are_You_Gonna_Kiss_Me_Or_Not_Thompson_Square.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Everything That Glitters (Is Not Gold)",
+      "artist": "Dan Seals",
+      "has_synced": true,
+      "path": "select/15_Everything_That_Glitters_(Is_Not_Gold)_Dan_Seals.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Not 4 Me ft. Ft. T.O.P. & Benjazzy",
+      "artist": "KEIJU",
+      "has_synced": false,
+      "path": "select/pl_01_Not_4_Me_ft._Ft._T.O.P._&_Benjazzy_KEIJU.txt"
+    }
+  ]
+}
