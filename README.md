@@ -1,47 +1,71 @@
-# KEIJU – Troubles
+# KEIJU – They Sayin'
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
 ```
-いつもの様にじゃもう足りない
-I've been working hard like Matsumoto Hitoshi
-時に朝まで やる yea I get you down
-All about that money 休めない暮らし
-追われてる Like Hayao迫る原稿
-隙間縫いWeak刺す俺のPencil
-仕事ならどっからどこまでか ピント
-合わなきゃ やっぱやだ来るの面倒
-後ろにダチ でも敵なら多い
-染めるよ真っ赤に マカロニ Frenemy
-They ain't know bout me 俺様がお通り
-MUD吸い込む Rastaのように
-見えない苦労 時に意気消沈
-歌詞書くlike Aska yea 今何時
-どうしても嫌な夢でもまだGriding
-Player's only 降る金 Fxxxbeing lonely
-*
-I'mma make money 寝るYenと
-街転がすBenzo
-この先 I can handle it
-嫌だでも来る面倒
-You think I'm brokeでもI've been balling
-You gon' see me gettin' money
-昨日より遥か上空へ
-まるで空飛ぶ飛行機
-Dice Gameのような日々をPlaying
-I just 面倒なことは無理は無理
-Living so hard 苦しみの先に笑み
-いつのまに ペンが走るあの痛み
-重ねたり 重なり合ってたり
-雨が降る 街の角 車の中
-滴垂れる窓 君の顔
-あの日 変われたはず だけどまだ
-New Money New Enemy 言っとくぜ
-こっそり 抜けてくなよ1人で
-もうすぐ 家族と過ごすHoliday
-My team supreme baby さぁ行こうぜ
-愛してるように騙し合う なんて当然のようで俺困る
-I don't wanna let your mama down 大人になる
-誰に願い 何をすがる
-*Repeat
+愛してMommy
+あんまりじゃない
+どうして泣いてないって
+またWhy you keep lying?
+yo yo yo yo
+短いかもしれないその命
+嘘ないよにいたい
+so just do my thing
+同じようで違うみんな中見 形
+それぞれのstyle
+見え辛いeverything
+小さな手 小さな足 あの頃
+誰かがいて 愛してくれた 必ず
+誰でもそう 1 人だけでも 有難い
+いつでも思う
+胸にあればいいそれだけ
+やりたいこと
+好きにさせてくれたこと
+大事なこと
+大好きだからやれたこと
+一回で終わり じゃbitchみたい
+またslip して何 事もない様に
+I'm coming back
+何度でもやる
+Let me see your smile
+お金より信頼産むsatisfy
+最低から少しずつ
+going up. growing up.
+誰かのせいとかまたThey sayin'
+静かに動き敵刺す牽制
+ディーゼルのエンジン積む
+メルセデス
+一度決めたらやるまでkeep singin
+絶対君振り向かせるほど
+派手に決めて 見せる覚悟
+絶対君振り向かせるほど
+Yea Yea
+Flex その腕時計 Flex 首元Chain
+Flex 新しい家 Flex 自分の為
+欲しいのはいいね
+自分さえ良ければいいね
+周りはどうでもいいね
+近くの人間を見れば瞭然
+かけてるfilter どうせ
+仕事がないのか政治に真剣
+いちいちうるせぇ
+mic で言ってみろせいぜい
+rapすりゃ責任 積み重ねmelody
+tattooみたい
+インスタじゃない濃いstory
+知らないことばかり俺は1 人
+自分の目で見て得るglory
+パッと咲き散る綺麗な花の様
+愛すべき者諭すよこのflow
+お前のことなら自分のことの様
+詰まるところdopeに送る日常
+誰かのせいとかまたThey sayin'
+静かに動き敵刺す牽制
+ディーゼルのエンジン積む
+メルセデス
+一度決めたらやるまでkeep singin
+絶対君振り向かせるほど
+派手に決めて 見せる覚悟
+絶対君振り向かせるほど
+Yea Yea
 ```
