@@ -1,152 +1,16 @@
 {
   "version": 1,
-  "base_track": "Troubles",
+  "base_track": "They Sayin'",
   "base_artist": "KEIJU",
-  "createdAt": "2026-02-15T05:22:07.419735Z",
+  "createdAt": "2026-02-21T16:04:21.324818Z",
   "candidates": [
-    {
-      "id": "lrclib_1",
-      "source": "lrclib",
-      "title": "Don't Tell Me Your Troubles",
-      "artist": "Ray Charles",
-      "has_synced": true,
-      "path": "select/01_Don't_Tell_Me_Your_Troubles_Ray_Charles.lrc"
-    },
-    {
-      "id": "lrclib_2",
-      "source": "lrclib",
-      "title": "She Loves My Troubles Away",
-      "artist": "John Conlee",
-      "has_synced": false,
-      "path": "select/02_She_Loves_My_Troubles_Away_John_Conlee.txt"
-    },
-    {
-      "id": "lrclib_3",
-      "source": "lrclib",
-      "title": "She Loves My Troubles Away (Album Version)",
-      "artist": "John Conlee",
-      "has_synced": false,
-      "path": "select/03_She_Loves_My_Troubles_Away_(Album_Version)_John_Conlee.txt"
-    },
-    {
-      "id": "lrclib_4",
-      "source": "lrclib",
-      "title": "Troubles Don't Last",
-      "artist": "B.B. King",
-      "has_synced": true,
-      "path": "select/04_Troubles_Don't_Last_B.B._King.lrc"
-    },
-    {
-      "id": "lrclib_5",
-      "source": "lrclib",
-      "title": "Troubles, Troubles, Troubles",
-      "artist": "B.B. King",
-      "has_synced": false,
-      "path": "select/05_Troubles,_Troubles,_Troubles_B.B._King.txt"
-    },
-    {
-      "id": "lrclib_6",
-      "source": "lrclib",
-      "title": "Troubles, Troubles, Troubles",
-      "artist": "B.B. King",
-      "has_synced": true,
-      "path": "select/06_Troubles,_Troubles,_Troubles_B.B._King.lrc"
-    },
-    {
-      "id": "lrclib_7",
-      "source": "lrclib",
-      "title": "Troubles",
-      "artist": "Adrian Belew",
-      "has_synced": true,
-      "path": "select/07_Troubles_Adrian_Belew.lrc"
-    },
-    {
-      "id": "lrclib_8",
-      "source": "lrclib",
-      "title": "Troubles",
-      "artist": "Alicia Keys",
-      "has_synced": true,
-      "path": "select/08_Troubles_Alicia_Keys.lrc"
-    },
-    {
-      "id": "lrclib_9",
-      "source": "lrclib",
-      "title": "Troubles",
-      "artist": "The Beta Band",
-      "has_synced": true,
-      "path": "select/09_Troubles_The_Beta_Band.lrc"
-    },
-    {
-      "id": "lrclib_10",
-      "source": "lrclib",
-      "title": "Forgetting All My Troubles",
-      "artist": "Katie Melua",
-      "has_synced": true,
-      "path": "select/10_Forgetting_All_My_Troubles_Katie_Melua.lrc"
-    },
-    {
-      "id": "lrclib_11",
-      "source": "lrclib",
-      "title": "Think About Your Troubles",
-      "artist": "Harry Nilsson",
-      "has_synced": true,
-      "path": "select/11_Think_About_Your_Troubles_Harry_Nilsson.lrc"
-    },
-    {
-      "id": "lrclib_12",
-      "source": "lrclib",
-      "title": "Troubles And Hassles",
-      "artist": "Golden Earring",
-      "has_synced": false,
-      "path": "select/12_Troubles_And_Hassles_Golden_Earring.txt"
-    },
-    {
-      "id": "lrclib_13",
-      "source": "lrclib",
-      "title": "The Troubles (home demo)",
-      "artist": "XTC",
-      "has_synced": false,
-      "path": "select/13_The_Troubles_(home_demo)_XTC.txt"
-    },
-    {
-      "id": "lrclib_14",
-      "source": "lrclib",
-      "title": "Think About Your Troubles",
-      "artist": "Jellyfish",
-      "has_synced": true,
-      "path": "select/14_Think_About_Your_Troubles_Jellyfish.lrc"
-    },
-    {
-      "id": "lrclib_15",
-      "source": "lrclib",
-      "title": "Think about Your Troubles (Harry Nilsson Cover)",
-      "artist": "Jellyfish",
-      "has_synced": true,
-      "path": "select/15_Think_about_Your_Troubles_(Harry_Nilsson_Cover)_Jellyfish.lrc"
-    },
-    {
-      "id": "lrclib_16",
-      "source": "lrclib",
-      "title": "Wrap Your Troubles In Dreams",
-      "artist": "Nico",
-      "has_synced": true,
-      "path": "select/16_Wrap_Your_Troubles_In_Dreams_Nico.lrc"
-    },
-    {
-      "id": "lrclib_17",
-      "source": "lrclib",
-      "title": "The Troubles",
-      "artist": "U2",
-      "has_synced": true,
-      "path": "select/17_The_Troubles_U2.lrc"
-    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "Troubles",
+      "title": "They Sayin'",
       "artist": "KEIJU",
       "has_synced": false,
-      "path": "select/pl_01_Troubles_KEIJU.txt"
+      "path": "select/pl_01_They_Sayin'_KEIJU.txt"
     }
   ]
 }
